@@ -11,16 +11,17 @@ body{
 h1{
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 #byline{
     font-size: 20;
-    font-family: Impact,Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Times New Roman', Times, serif;
 }
 
-#caption h5{
+#caption{
     font-size: 12;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Times New Roman', Times, serif;
 }
 
 p{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Times New Roman', Times, serif;
 }
