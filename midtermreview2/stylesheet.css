@@ -25,3 +25,38 @@ h1{
 p{
     font-family:'Times New Roman', Times, serif;
 }
+
+#image1{
+    line-height: 0%;
+    float:left;
+    margin: 0 15px 0 0;
+}
+
+#image3{
+    line-height: 0%;
+    float:right;
+    margin: 0 15px 0 0;
+    text-align: right;
+} 
+
+blockquote{
+    border-style: double;
+    border-width: 100%;
+    border-color: white;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 100px;
+}
+
+#more{
+    line-height: 50px;
+    text-align: center;
+}
+
+#links{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 15px;
+    text-decoration-color: white;
+}
