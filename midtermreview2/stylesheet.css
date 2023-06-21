@@ -1,6 +1,8 @@
 body{
     background-color:black;
+    text-emphasis-color: white;
 }
+
 #content {
     margin:0 auto;
     width: 900px;
