@@ -1,6 +1,6 @@
 body{
     background-color:black;
-    text-emphasis-color: white;
+    -webkit-text-fill-color: white;
 }
 
 #content {
