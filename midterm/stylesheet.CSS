@@ -8,6 +8,7 @@
     font-family:'Times New Roman', Times, serif;
     font-weight: 100;
     line-height: 50%;
+    color: #7FA7BF;
 }
 
 #byline{
@@ -17,12 +18,51 @@
     line-height: 0%;
 }
 
-#subhead{
+#mainsubhead{
     font-size: 30;
     font-weight: lighter;
     font-family:"khmer MN";
 }
+#subhead{
+    font-size: 30;
+    font-weight: lighter;
+    font-family:"khmer MN";
+    color: #7FA7BF;
+
+}
 
 p{
-   font size: 12px;
+   font-size: 20;
 } 
+
+#image2{
+    line-height: 0%;
+    float:left;
+    margin: 0 15px 0 0;
+}
+#img3{
+    line-height: 0%;
+    margin: 0 15px 0 0;
+}
+
+#img4{
+    line-height: 0%;
+    margin: 0 15px 0 0;
+    float: right;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+#blockquote{
+    border-style: double;
+    border-width: 100%;
+    border-color: black;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 100px;
+}
