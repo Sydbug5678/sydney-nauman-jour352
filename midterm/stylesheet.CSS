@@ -1,1 +1,28 @@
+#page{
+    margin:0 auto;
+    width: 900px;
+}
 
+#headline{
+    font-size: 70;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+    line-height: 50%;
+}
+
+#byline{
+    font-size: 20;
+    font-family:"khmer MN";
+    font-weight: lighter;
+    line-height: 0%;
+}
+
+#subhead{
+    font-size: 30;
+    font-weight: lighter;
+    font-family:"khmer MN";
+}
+
+p{
+   font size: 12px;
+} 
