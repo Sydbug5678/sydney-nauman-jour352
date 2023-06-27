@@ -1,4 +1,5 @@
-#container-fluid{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: aquamarine;
-}
+<style>
+     .navbar-expand-lg{
+         background-color: aqua;
+    }
+ </style>
