@@ -9,6 +9,7 @@ h1{
 p{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
+    text-align: center;
     
 }
 
@@ -18,4 +19,7 @@ p{
     margin: 0 15px 0 0;
 }
 
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #87BCB8;
+}
 
