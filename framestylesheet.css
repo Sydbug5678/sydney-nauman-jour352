@@ -12,11 +12,6 @@
     text-align: center;
 }
 
-p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 100%;
-}
-
 .subhead{
     font-size: 2em;
     font-weight:700;
@@ -24,3 +19,9 @@ p{
     font-family: 'Montserrat', sans-serif;
 
 }
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 100%;
+}
+
