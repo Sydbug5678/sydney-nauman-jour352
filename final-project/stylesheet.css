@@ -2,27 +2,28 @@
     font-size: 3em;
     font-weight:700;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Amethysta', serif;
+    padding-top: 10%;
 }  
 
 .byline{
     font-size: 1em;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    padding-block: 3%;
+    padding-bottom: 2%;
 }
 
 .subhead{
-    font-size: 2em;
-    font-weight:700;
-    text-align: left;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8em;
+    font-weight: 250;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 100%;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 180%;
 }
 
 .img1{
@@ -34,6 +35,7 @@ p{
     -webkit-text-fill-color: gray;
     font-family: 'Montserrat', sans-serif;
     font-weight:lighter;
+    padding-top: 1%;
 }
 
 .footer{
@@ -86,6 +88,7 @@ p{
     background-color: rgb(187, 4, 4);
     outline-color: rgb(187, 4, 4);
     align-items: center;
+    
 }
 
 .btn:hover {
@@ -103,6 +106,11 @@ p{
     text-transform: lowercase;
     vertical-align: middle;
     letter-spacing: .2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
   }
   
 .fire {
@@ -111,6 +119,7 @@ p{
     -webkit-animation: animation 1s ease-in-out infinite alternate;
     -o-animation: animation 1s ease-in-out infinite alternate;
   }
+  
   
   .burn {
     animation: animation .65s ease-in-out infinite alternate;
@@ -192,5 +201,45 @@ p{
   }
 
   /*navbar*/
-  
 
+  .nav-link{
+    font-family:'Amethysta', serif;
+    font-size: 20px;
+  }
+
+  .fa:hover {  
+    opacity: 0.9;  
+}  
+  .fa-instagram {  
+    vertical-align: right !important; 
+    color: white;  
+  }  
+  
+  .fa-twitter {    
+    vertical-align: right !important;
+    color: white; 
+  }  
+
+/* story*/
+.wrap{
+    width: 700px;
+    margin: 100px auto;
+    color: #000000;
+    text-align: left;
+    font-size: 2.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+  .media{
+    text-align: center;
+    padding-block: 2.5%;
+
+  }
+
+  .table{
+    width: 600px;
+    text-align: top;
+    float:right;
+    margin-top: 5px;
+    margin-left: 10px;
+  }
