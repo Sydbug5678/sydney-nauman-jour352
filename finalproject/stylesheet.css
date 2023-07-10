@@ -41,7 +41,7 @@ p{
     padding-bottom: 2%;
 }
 
-#table{
+.table{
   line-height: 0%;
     float:left;
     margin: 0 15px 0 0;
@@ -244,7 +244,7 @@ p{
 /* icon */ 
   .nav.navbar-nav.navbar-right li {
       float: right;
-      -me-flex-align: right;
+      text-align: left;
   }
   .nav.navbar-nav.navbar-right li > a {
       padding:8px 5px;
